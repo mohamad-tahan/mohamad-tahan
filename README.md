@@ -1,8 +1,6 @@
 # Hi , I am Mohamad Tahan 👋 
 💻I'm a computer science graduate <br />
-
 👨‍💻I'm currently training at SE Factory <br />
-
 👨‍🔬I'm looking forward to become a professional full-stack web developer <br />
 
 ### Languages and Tools:
@@ -28,6 +26,6 @@
 
 
 ### Reach me with:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/mohamad-tahan-20A70217B/)
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/mohamad-tahan-20A70217B/)
 
 
