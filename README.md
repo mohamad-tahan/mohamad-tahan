@@ -1,7 +1,7 @@
 # Hi, I am Mohamad Tahan 👋 
 💻I'm a computer science graduate <br />
 👨‍💻I'm an SE Factory trainee <br />
-👨‍🔬I'm looking forward to become a professional full-stack web developer <br />
+👨‍🔬I'm a Full Stack Web Developer <br />
 
 ### Languages and Tools:
 
