@@ -24,7 +24,6 @@
 
 <a href="https://www.laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=firebase&logoColor=white" alt="Laravel"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> </a>
-<a href="https://reactnative.dev" target="_blank"> <img src="https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/> </a>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <a href="https://jquery.com" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/> </a>
@@ -47,7 +46,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/visual_studio-563d7c?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/> </a>
 
-### **Version ControlE**<br>
+### **Version Control**<br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
