@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Mohamad Tahan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Moe Tahan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 💻I'm a computer science graduate <br />
-- 👨‍💻I'm an SE Factory trainee <br />
-- 👨‍🔬I'm a passionate Full Stack Web Developer <br />
+- 👨‍💻I'm a passionate Full Stack Web Developer <br />
 - 🚀I'm always open to new learning experiences <br />
 
 ## **🧰 Tech Skills**<br>
@@ -63,3 +62,4 @@
 ![Moe's Github Stats](https://github-readme-stats.vercel.app/api?username=mohamad-tahan&show_icons=true&theme=vue-dark&hide=stars,issues)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohamad-tahan&layout=compact&theme=vue-dark&count_private=true" />
+
